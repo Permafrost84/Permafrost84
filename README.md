@@ -10,7 +10,7 @@ I work as an IT project manager and supporter for database software for museums,
 
 Work in progress!
 
-### Find me also on:
+### Connect with me:
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/constantin-buchholz/)
 
 <!--

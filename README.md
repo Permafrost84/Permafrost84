@@ -4,6 +4,7 @@
 I work as an IT project manager and supporter for a company that builds database software for museums, archives and libraries.
 
 🔭 I’m currently working on a game playing agent for a game inspired by CoreWars for a Seminar Natural Computing.
+
 🌱 I’m currently learning... actually a bunch of things.
 
 <!-- 

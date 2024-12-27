@@ -1,7 +1,7 @@
 ## Hi there, I'm Constantin! 👋
 
 👨‍🎓 I’m currently studying towards my master's degree in Pracitcal Computer Science at [FernUniversität in Hagen](https://www.fernuni-hagen.de/) (Germany).
-I work as an IT project manager and supporter for database software for museums, archives and libraries.
+I work as an IT project manager and supporter for a company that builds database software for museums, archives and libraries.
 
 <!-- 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
